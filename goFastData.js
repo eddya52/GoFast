@@ -2,9 +2,9 @@
  [{
  	"isRemote": "true",
  	"url": "https://www.google.com",
- 	"requirments": ["Enteracombination of atleast six numbers", "letters and punctuation marks (suchas!and&)"]
+ 	"requirments": ["Enter a combination of at least six numbers", "letters and punctuation marks (such as ! and &)"]
  }, {
  	"isRemote": "true",
  	"url": "https://www.facebook.com/",
- 	"requirments": ["Enteracombination of atleast six numbers", "letters and punctuation marks (suchas!and&)"]
+ 	"requirments": ["Enter a combination of at least six numbers", "letters and punctuation marks (such as ! and &)"]
  }]

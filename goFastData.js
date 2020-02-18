@@ -13,6 +13,50 @@
  	"requirments": ["Enter a combination of at least six (6) characters", "Include letters and punctuation marks (such as ! and &)"]
  }, {
  	"isRemote": "true",
+ 	"url": "https://www.instagram.com/",
+ 	"requirments": ["Enter a combination of at least six (6) characters", "Must contain some mix of letters, numbers, and/or symbols", "Cannot be particularly weak (like password123)"]
+ }, {
+ 	"isRemote": "true",
+ 	"url": "https://www.slack.com/",
+ 	"requirments": ["Enter a combination of at least six (6) characters"]
+ }, {
+ 	"isRemote": "true",
+ 	"url": "https://www.discord.com/",
+ 	"requirments": ["Enter a combination of at least six (6) characters", "Cannot exceed one hundred and twenty eight (128) characters"]
+ }, {
+ 	"isRemote": "true",
+ 	"url": "https://www.dropbox.com/",
+ 	"requirments": ["Enter a combination of at least six (6) characters"]
+ }, {
+ 	"isRemote": "true",
  	"url": "https://twitter.com/",
  	"requirments": ["Enter a combination of at least ten (10) characters", "Include lowercase letters", "include upper case letters", "Include numbers and symbols (such as ! and ?)"]
+ }, {
+ 	"isRemote": "true",
+ 	"url": "https://linkedin.com/",
+ 	"requirments": ["Enter a combination of at least six (6) characters"]
+ }, {
+ 	"isRemote": "true",
+ 	"url": "https://hulu.com/",
+ 	"requirments": ["Enter a combination of at least six (6) characters"]
+ }, {
+ 	"isRemote": "true",
+ 	"url": "https://twitch.tv/",
+ 	"requirments": ["Enter a combination of at least eight (8) characters"]
+ }, {
+ 	"isRemote": "true",
+ 	"url": "https://netflix.com/",
+ 	"requirments": ["Enter a combination of at least four (4) characters", "Cannot exceed sixty (60) characters in length"]
+ }, {
+ 	"isRemote": "true",
+ 	"url": "https://lastpass.com/",
+ 	"requirments": ["Enter a combination of at least twelve (12) characters", "Must use upper case letters, lower case letters, numbers, and special characters"]
+ }, {
+ 	"isRemote": "true",
+ 	"url": "https://paypal.com/",
+ 	"requirments": ["Enter a combination of at least seven (7) characters", "Cannot exceed thirty two (32) characters in length", "Include letters, numbers, and special characters (such as ! and &)", "Password cannot be the same as your login", "Single quotes, double quotes, ampersands, and spaces are not allowed", "Must not have only letters or only numbers" ]
+ }, {
+ 	"isRemote": "true",
+ 	"url": "https://www.spotify.com/",
+ 	"requirments": ["Enter a combination of at least four (4) characters", "Cannot include repeating characters (e.g. bbb12 or 444ba)"]
  }]

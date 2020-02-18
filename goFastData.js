@@ -21,6 +21,10 @@
  	"requirments": ["Enter a combination of at least six (6) characters"]
  }, {
  	"isRemote": "true",
+ 	"url": "https://www.disneyplus.com/",
+ 	"requirments": ["Enter a combination of at least six (6) characters", "Must have at least one number or special character"]
+ }, {
+ 	"isRemote": "true",
  	"url": "https://www.discord.com/",
  	"requirments": ["Enter a combination of at least six (6) characters", "Cannot exceed one hundred and twenty eight (128) characters"]
  }, {
@@ -47,6 +51,14 @@
  	"isRemote": "true",
  	"url": "https://netflix.com/",
  	"requirments": ["Enter a combination of at least four (4) characters", "Cannot exceed sixty (60) characters in length"]
+ }, {
+ 	"isRemote": "true",
+ 	"url": "https://amazon.com/",
+ 	"requirments": ["Enter a combination of at least six (6) characters", "Must not be a previously used password"]
+ }, {
+ 	"isRemote": "true",
+ 	"url": "https://amazon.ca/",
+ 	"requirments": ["Enter a combination of at least six (6) characters", "Must not be a previously used password"]
  }, {
  	"isRemote": "true",
  	"url": "https://lastpass.com/",

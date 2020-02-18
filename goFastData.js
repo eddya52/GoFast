@@ -41,7 +41,7 @@
  	"requirments": ["Enter a combination of at least six (6) characters"]
  }, {
  	"isRemote": "true",
- 	"url": "https://www.hulu.com/",
+ 	"url": "https://www.hulu.com/welcome",
  	"requirments": ["Enter a combination of at least six (6) characters"]
  }, {
  	"isRemote": "true",

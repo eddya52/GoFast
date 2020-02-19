@@ -38,7 +38,7 @@
  }, {
  	"isRemote": "true",
  	"url": "https://www.linkedin.com/",
- 	"requirments": ["Enter a combination of at least six (6) characters"]
+ 	"requirments": ["Enter a combination of at least eight (8) characters", "Include at least one (1) number or one (1) special character"]
  }, {
  	"isRemote": "true",
  	"url": "https://www.hulu.com/welcome",

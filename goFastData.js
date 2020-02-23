@@ -3,7 +3,7 @@
  	"isRemote": "true",
  	"url": "https://www.google.com",
  	"requirments": ["Enter a combination of at least eight (8) characters", "Include a number", "Include a capital letter", "Include a lower case letter", "Password cannot match username"]
- },{
+ }, {
  	"isRemote": "true",
  	"url": "https://www.google.ca",
  	"requirments": ["Enter a combination of at least eight (8) characters", "Include a number", "Include a capital letter", "Include a lower case letter", "Password cannot match username"]
@@ -67,6 +67,10 @@
  	"isRemote": "true",
  	"url": "https://www.paypal.com/",
  	"requirments": ["Enter a combination of at least seven (7) characters", "Cannot exceed thirty two (32) characters in length", "Include letters, numbers, and special characters (such as ! and &)", "Password cannot be the same as your login", "Single quotes, double quotes, ampersands, and spaces are not allowed", "Must not have only letters or only numbers" ]
+ }, {
+ 	"isRemote": "true",
+ 	"url": "https://www.brighttrip.com/",
+ 	"requirments": ["Enter a combination of at least eight (8) characters"]
  }, {
  	"isRemote": "true",
  	"url": "https://www.spotify.com/",

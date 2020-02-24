@@ -25,6 +25,10 @@
  	"requirments": ["Enter a combination of at least six (6) characters"]
  }, {
  	"isRemote": "true",
+ 	"url": "https://www.epicgames.com/",
+ 	"requirments": ["Enter a combination of at least seven (7) characters", "Must include a number and a letter"]
+ }, {
+ 	"isRemote": "true",
  	"url": "https://www.reddit.com/",
  	"requirments": ["Enter a combination of at least six (6) characters"]
  }, {

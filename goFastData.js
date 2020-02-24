@@ -21,6 +21,10 @@
  	"requirments": ["Enter a combination of at least six (6) characters"]
  }, {
  	"isRemote": "true",
+ 	"url": "https://www.reddit.com/",
+ 	"requirments": ["Enter a combination of at least six (6) characters"]
+ }, {
+ 	"isRemote": "true",
  	"url": "https://www.disneyplus.com/",
  	"requirments": ["Enter a combination of at least six (6) characters", "Must have at least one number or special character"]
  }, {

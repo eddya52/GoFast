@@ -13,6 +13,10 @@
  	"requirments": ["Enter a combination of at least six (6) characters", "Include letters and punctuation marks (such as ! and &)"]
  }, {
  	"isRemote": "true",
+ 	"url": "https://www.apple.com/",
+ 	"requirments": ["Enter a combination of at least eight (8) characters", "Include upper and lowercase letters", "Include at least one (1) number"]
+ }, {
+ 	"isRemote": "true",
  	"url": "https://www.instagram.com/",
  	"requirments": ["Enter a combination of at least six (6) characters", "Must contain some mix of letters, numbers, and/or symbols", "Cannot be particularly weak (like password123)"]
  }, {

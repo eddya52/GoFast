@@ -37,6 +37,14 @@
  	"requirments": ["Enter a combination of at least six (6) characters"]
  }, {
  	"isRemote": "true",
+ 	"url": "https://www.ebay.com/",
+ 	"requirments": ["Enter a combination of at least six (6) characters", "Include a number or a symbol", "Have at least 1 letter"]
+ }, {
+ 	"isRemote": "true",
+ 	"url": "https://www.ebay.ca/",
+ 	"requirments": ["Enter a combination of at least six (6) characters", "Include a number or a symbol", "Have at least 1 letter"]
+ }, {
+ 	"isRemote": "true",
  	"url": "https://www.twitter.com/",
  	"requirments": ["Enter a combination of at least ten (10) characters", "Include lowercase letters", "include upper case letters", "Include numbers and symbols (such as ! and ?)"]
  }, {
